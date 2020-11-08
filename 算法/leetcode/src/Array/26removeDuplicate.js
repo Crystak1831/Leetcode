@@ -29,6 +29,6 @@ var removeDuplicates = function(nums) {
     }
     return sl + 1;
 }
-let arr = [1,1,2]
+let arr = [1,1,2,2,3]
 console.log(removeDuplicates(arr))
 
