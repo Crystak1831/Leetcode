@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3c0dd292-cbd6-4ea9-9424-78f3df0805ce" name="Default Changelist" comment="" />
+    <list default="true" id="3c0dd292-cbd6-4ea9-9424-78f3df0805ce" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Book1.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/Array/16_3SumCloset.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/Array/189RotateArray.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/Array/18_4Sum.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/Array/243ShorestWordDistance.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/Array/244ShortestWordDII.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/Array/26removeDuplicate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/Array/277FindCelebrity.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/Array/27Remove.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/Array/41FirstMissingPositive.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/Array/42TrappingRainWater.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/Array/80RemoveDuplicateII.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/Array/ArrayMax.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/src/Array/11MostWater.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/Array/11MostWater.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/src/Array/15ThreeSum.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/Array/15ThreeSum.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +32,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
   <component name="ProjectId" id="1fQhQygbGy18beYo9IBbi9rmud5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +45,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ToolWindowDebug.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -32,29 +57,29 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="Node.js.238ProductofArr.js">
-    <configuration name="11MostWater.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/leetcode/src/Array/11MostWater.js" working-dir="$PROJECT_DIR$/leetcode/src/Array">
+  <component name="RunManager" selected="Node.js.42TrappingRainWater.js">
+    <configuration name="16_3SumCloset.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/leetcode/src/Array/16_3SumCloset.js" working-dir="$PROJECT_DIR$/leetcode/src/Array">
       <method v="2" />
     </configuration>
-    <configuration name="15ThreeSum.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/leetcode/src/Array/15ThreeSum.js" working-dir="$PROJECT_DIR$/leetcode/src/Array">
+    <configuration name="189RotateArray.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/leetcode/src/Array/189RotateArray.js" working-dir="$PROJECT_DIR$/leetcode/src/Array">
       <method v="2" />
     </configuration>
-    <configuration name="1twoSum.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/leetcode/src/Array/1twoSum.js" working-dir="$PROJECT_DIR$/leetcode/src/Array">
+    <configuration name="26removeDuplicate.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/leetcode/src/Array/26removeDuplicate.js" working-dir="$PROJECT_DIR$/leetcode/src/Array">
       <method v="2" />
     </configuration>
-    <configuration name="236LowestAcenstor.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/leetcode/src/Tree/236LowestAcenstor.js" working-dir="$PROJECT_DIR$/leetcode/src/Tree">
+    <configuration name="41FirstMissingPositive.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/leetcode/src/Array/41FirstMissingPositive.js" working-dir="$PROJECT_DIR$/leetcode/src/Array">
       <method v="2" />
     </configuration>
-    <configuration name="238ProductofArr.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/leetcode/src/Array/238ProductofArr.js" working-dir="$PROJECT_DIR$/leetcode/src/Array">
+    <configuration name="42TrappingRainWater.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/leetcode/src/Array/42TrappingRainWater.js" working-dir="$PROJECT_DIR$/leetcode/src/Array">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.238ProductofArr.js" />
-        <item itemvalue="Node.js.15ThreeSum.js" />
-        <item itemvalue="Node.js.1twoSum.js" />
-        <item itemvalue="Node.js.11MostWater.js" />
-        <item itemvalue="Node.js.236LowestAcenstor.js" />
+        <item itemvalue="Node.js.42TrappingRainWater.js" />
+        <item itemvalue="Node.js.16_3SumCloset.js" />
+        <item itemvalue="Node.js.26removeDuplicate.js" />
+        <item itemvalue="Node.js.41FirstMissingPositive.js" />
+        <item itemvalue="Node.js.189RotateArray.js" />
       </list>
     </recent_temporary>
   </component>
@@ -73,6 +98,14 @@
       <workItem from="1602879753188" duration="3479000" />
       <workItem from="1602884024473" duration="508000" />
       <workItem from="1603130470652" duration="13179000" />
+      <workItem from="1603336250348" duration="905000" />
+      <workItem from="1603916191583" duration="360000" />
+      <workItem from="1604362078634" duration="5482000" />
+      <workItem from="1604796924529" duration="24045000" />
+      <workItem from="1605016668927" duration="272000" />
+      <workItem from="1605208541515" duration="3772000" />
+      <workItem from="1605560586468" duration="585000" />
+      <workItem from="1605561715089" duration="1148000" />
     </task>
     <servers />
   </component>
@@ -80,21 +113,97 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1085" height="232" key="GridCell.Tab.0.bottom" timestamp="1603332713071">
+    <state x="261" y="128" key="#Notifications" timestamp="1604938751424">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1085" height="232" key="GridCell.Tab.0.bottom/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1603332713071" />
-    <state width="1085" height="232" key="GridCell.Tab.0.center" timestamp="1603332713071">
+    <state x="261" y="128" key="#Notifications/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1604938751424" />
+    <state x="220" y="135" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1604938745099">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1085" height="232" key="GridCell.Tab.0.center/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1603332713071" />
-    <state width="1085" height="232" key="GridCell.Tab.0.left" timestamp="1603332713070">
+    <state x="220" y="135" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1604938745099" />
+    <state width="1085" height="259" key="GridCell.Tab.0.bottom" timestamp="1605588707541">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1085" height="232" key="GridCell.Tab.0.left/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1603332713070" />
-    <state width="1085" height="232" key="GridCell.Tab.0.right" timestamp="1603332713071">
+    <state width="1085" height="232" key="GridCell.Tab.0.bottom/0.23.1440.877/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1603917088007" />
+    <state width="1085" height="259" key="GridCell.Tab.0.bottom/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1605588707541" />
+    <state width="1085" height="259" key="GridCell.Tab.0.center" timestamp="1605588707541">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1085" height="232" key="GridCell.Tab.0.right/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1603332713071" />
+    <state width="1085" height="232" key="GridCell.Tab.0.center/0.23.1440.877/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1603917088006" />
+    <state width="1085" height="259" key="GridCell.Tab.0.center/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1605588707541" />
+    <state width="1085" height="259" key="GridCell.Tab.0.left" timestamp="1605588707541">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1085" height="232" key="GridCell.Tab.0.left/0.23.1440.877/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1603917088006" />
+    <state width="1085" height="259" key="GridCell.Tab.0.left/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1605588707541" />
+    <state width="1085" height="259" key="GridCell.Tab.0.right" timestamp="1605588707541">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1085" height="232" key="GridCell.Tab.0.right/0.23.1440.877/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1603917088006" />
+    <state width="1085" height="259" key="GridCell.Tab.0.right/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1605588707541" />
+    <state width="1085" height="284" key="GridCell.Tab.1.bottom" timestamp="1604939520748">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1085" height="284" key="GridCell.Tab.1.bottom/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1604939520748" />
+    <state width="1085" height="284" key="GridCell.Tab.1.center" timestamp="1604939520747">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1085" height="284" key="GridCell.Tab.1.center/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1604939520747" />
+    <state width="1085" height="284" key="GridCell.Tab.1.left" timestamp="1604939520747">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1085" height="284" key="GridCell.Tab.1.left/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1604939520747" />
+    <state width="1085" height="284" key="GridCell.Tab.1.right" timestamp="1604939520748">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1085" height="284" key="GridCell.Tab.1.right/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1604939520748" />
+    <state width="1085" height="284" key="GridCell.Tab.2.bottom" timestamp="1604939520749">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1085" height="284" key="GridCell.Tab.2.bottom/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1604939520749" />
+    <state width="1085" height="284" key="GridCell.Tab.2.center" timestamp="1604939520749">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1085" height="284" key="GridCell.Tab.2.center/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1604939520749" />
+    <state width="1085" height="284" key="GridCell.Tab.2.left" timestamp="1604939520749">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1085" height="284" key="GridCell.Tab.2.left/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1604939520749" />
+    <state width="1085" height="284" key="GridCell.Tab.2.right" timestamp="1604939520749">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1085" height="284" key="GridCell.Tab.2.right/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1604939520749" />
+    <state width="1085" height="284" key="GridCell.Tab.3.bottom" timestamp="1604939520751">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1085" height="284" key="GridCell.Tab.3.bottom/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1604939520751" />
+    <state width="1085" height="284" key="GridCell.Tab.3.center" timestamp="1604939520750">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1085" height="284" key="GridCell.Tab.3.center/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1604939520750" />
+    <state width="1085" height="284" key="GridCell.Tab.3.left" timestamp="1604939520750">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1085" height="284" key="GridCell.Tab.3.left/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1604939520750" />
+    <state width="1085" height="284" key="GridCell.Tab.3.right" timestamp="1604939520750">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1085" height="284" key="GridCell.Tab.3.right/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1604939520750" />
+    <state x="576" y="366" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603336299698">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="576" y="366" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877@0.23.1440.877" timestamp="1603336299698" />
+    <state x="464" y="247" key="git4idea.merge.GitMergeDialog" timestamp="1603336815971">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="464" y="247" key="git4idea.merge.GitMergeDialog/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1603336815971" />
+    <state width="600" height="382" key="javadoc.popup" timestamp="1604939298310">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="600" height="382" key="javadoc.popup/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1604939298310" />
+    <state x="232" y="198" width="670" height="676" key="search.everywhere.popup" timestamp="1604462454875">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="232" y="198" width="670" height="676" key="search.everywhere.popup/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1604462454875" />
   </component>
 </project>
