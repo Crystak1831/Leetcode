@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ffa9b33-659a-4dfe-bd73-e604d3fe2094" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/String/344ReverseString.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/658FindKCloset.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/RemoveNeg.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +49,7 @@
       <recent name="$PROJECT_DIR$/src/Array" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.344ReverseString.js">
+  <component name="RunManager" selected="Node.js.RemoveNeg.js">
     <configuration name="1twoSum.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Array/1twoSum.js" working-dir="$PROJECT_DIR$/src/Array">
       <method v="2" />
     </configuration>
@@ -61,23 +62,23 @@
     <configuration name="760FindAngramMappings.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Array/760FindAngramMappings.js" working-dir="$PROJECT_DIR$/src/Array">
       <method v="2" />
     </configuration>
-    <configuration name="student.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Array/student.js" working-dir="$PROJECT_DIR$/src/Array">
+    <configuration name="RemoveNeg.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Array/RemoveNeg.js" working-dir="$PROJECT_DIR$/src/Array">
       <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Node.js.1twoSum.js" />
-      <item itemvalue="Node.js.student.js" />
       <item itemvalue="Node.js.215KthLargest.js" />
       <item itemvalue="Node.js.760FindAngramMappings.js" />
       <item itemvalue="Node.js.344ReverseString.js" />
+      <item itemvalue="Node.js.RemoveNeg.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.RemoveNeg.js" />
         <item itemvalue="Node.js.344ReverseString.js" />
         <item itemvalue="Node.js.760FindAngramMappings.js" />
         <item itemvalue="Node.js.215KthLargest.js" />
         <item itemvalue="Node.js.1twoSum.js" />
-        <item itemvalue="Node.js.student.js" />
       </list>
     </recent_temporary>
   </component>
@@ -103,7 +104,7 @@
       <workItem from="1607700440632" duration="1534000" />
       <workItem from="1608427177918" duration="648000" />
       <workItem from="1608579375457" duration="9734000" />
-      <workItem from="1608653693659" duration="3232000" />
+      <workItem from="1608653693659" duration="8396000" />
     </task>
     <task id="LOCAL-00001" summary="215">
       <created>1608602792357</created>
@@ -119,7 +120,21 @@
       <option name="project" value="LOCAL" />
       <updated>1608605965450</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="34">
+      <created>1608661486554</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608661486554</updated>
+    </task>
+    <task id="LOCAL-00004" summary="34">
+      <created>1608661683280</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1608661683280</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,37 +143,38 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="215" />
     <MESSAGE value="760" />
-    <option name="LAST_COMMIT_MESSAGE" value="760" />
+    <MESSAGE value="34" />
+    <option name="LAST_COMMIT_MESSAGE" value="34" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="209" y="27" key="CommitChangelistDialog2" timestamp="1608661486438">
+    <state x="209" y="27" key="CommitChangelistDialog2" timestamp="1608661683177">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="209" y="27" key="CommitChangelistDialog2/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1608661486438" />
-    <state width="988" height="92" key="GridCell.Tab.0.bottom" timestamp="1608661439529">
+    <state x="209" y="27" key="CommitChangelistDialog2/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1608661683177" />
+    <state width="988" height="201" key="GridCell.Tab.0.bottom" timestamp="1608681696514">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1167" height="198" key="GridCell.Tab.0.bottom/0.23.1440.877/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1607703349744" />
-    <state width="988" height="92" key="GridCell.Tab.0.bottom/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1608661439529" />
-    <state width="988" height="92" key="GridCell.Tab.0.center" timestamp="1608661439528">
+    <state width="988" height="201" key="GridCell.Tab.0.bottom/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1608681696514" />
+    <state width="988" height="201" key="GridCell.Tab.0.center" timestamp="1608681696513">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1167" height="198" key="GridCell.Tab.0.center/0.23.1440.877/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1607703349744" />
-    <state width="988" height="92" key="GridCell.Tab.0.center/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1608661439528" />
-    <state width="988" height="92" key="GridCell.Tab.0.left" timestamp="1608661439527">
+    <state width="988" height="201" key="GridCell.Tab.0.center/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1608681696513" />
+    <state width="988" height="201" key="GridCell.Tab.0.left" timestamp="1608681696513">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1167" height="198" key="GridCell.Tab.0.left/0.23.1440.877/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1607703349744" />
-    <state width="988" height="92" key="GridCell.Tab.0.left/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1608661439527" />
-    <state width="988" height="92" key="GridCell.Tab.0.right" timestamp="1608661439528">
+    <state width="988" height="201" key="GridCell.Tab.0.left/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1608681696513" />
+    <state width="988" height="201" key="GridCell.Tab.0.right" timestamp="1608681696514">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1167" height="198" key="GridCell.Tab.0.right/0.23.1440.877/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1607703349744" />
-    <state width="988" height="92" key="GridCell.Tab.0.right/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1608661439528" />
-    <state x="225" y="164" key="Vcs.Push.Dialog.v2" timestamp="1608661489823">
+    <state width="988" height="201" key="GridCell.Tab.0.right/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1608681696514" />
+    <state x="225" y="164" key="Vcs.Push.Dialog.v2" timestamp="1608661687272">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="225" y="164" key="Vcs.Push.Dialog.v2/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1608661489823" />
+    <state x="225" y="164" key="Vcs.Push.Dialog.v2/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1608661687272" />
     <state x="417" y="275" key="com.intellij.ide.util.TipDialog" timestamp="1605726529804">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
