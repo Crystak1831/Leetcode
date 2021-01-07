@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4ffa9b33-659a-4dfe-bd73-e604d3fe2094" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Group_Anagrams_49.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/Group_Anagrams_49.class" afterDir="false" />
-    </list>
+    <list default="true" id="4ffa9b33-659a-4dfe-bd73-e604d3fe2094" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -123,7 +121,7 @@
       <workItem from="1609955308587" duration="2000" />
       <workItem from="1609974664641" duration="174000" />
       <workItem from="1609974900525" duration="302000" />
-      <workItem from="1609975753653" duration="5962000" />
+      <workItem from="1609975753653" duration="6510000" />
     </task>
     <task id="LOCAL-00001" summary="215">
       <created>1608602792357</created>
@@ -167,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609989539119</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Binary Search">
+      <created>1609989820026</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1609989820026</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,10 +187,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Binary Search" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="209" y="27" key="CommitChangelistDialog2" timestamp="1609989538770">
+    <state x="209" y="27" key="CommitChangelistDialog2" timestamp="1609989819920">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="209" y="27" key="CommitChangelistDialog2/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1609989538770" />
+    <state x="209" y="27" key="CommitChangelistDialog2/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1609989819920" />
     <state width="1158" height="95" key="GridCell.Tab.0.bottom" timestamp="1609982488589">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -210,10 +215,10 @@
     <state width="988" height="201" key="GridCell.Tab.0.right/0.23.1440.877/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1608692919896" />
     <state width="1158" height="95" key="GridCell.Tab.0.right/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1609982488588" />
     <state width="988" height="201" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1608733604497" />
-    <state x="225" y="164" key="Vcs.Push.Dialog.v2" timestamp="1609989543861">
+    <state x="225" y="164" key="Vcs.Push.Dialog.v2" timestamp="1609989824785">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="225" y="164" key="Vcs.Push.Dialog.v2/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1609989543861" />
+    <state x="225" y="164" key="Vcs.Push.Dialog.v2/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1609989824785" />
     <state x="417" y="275" key="com.intellij.ide.util.TipDialog" timestamp="1609975894208">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
