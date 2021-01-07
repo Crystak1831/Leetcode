@@ -2,39 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ffa9b33-659a-4dfe-bd73-e604d3fe2094" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Book1.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/src/Encapsulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/125Valid_Palindrome.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/16_3SumCloset.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/189RotateArray.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/18_4Sum.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/215KthLargest.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/243ShorestWordDistance.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/244ShortestWordDII.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/26removeDuplicate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/277FindCelebrity.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/27Remove.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/41FirstMissingPositive.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/42TrappingRainWater.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/61RotateList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/658FindKCloset.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/760FindAngramMappings.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/80RemoveDuplicateII.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/88MergeSortedArray.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/ArrayMax.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/RemoveNeg.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinarySearch/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/344ReverseString.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/415AddString.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/LongesSub200.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/11MostWater.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/11MostWater.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/136SingleNumber.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/136SingleNumber.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/15ThreeSum.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/15ThreeSum.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/1twoSum.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/1twoSum.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkList/isPalindrome.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkList/isPalindrome.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Group_Anagrams_49.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/Group_Anagrams_49.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,7 +123,7 @@
       <workItem from="1609955308587" duration="2000" />
       <workItem from="1609974664641" duration="174000" />
       <workItem from="1609974900525" duration="302000" />
-      <workItem from="1609975753653" duration="5592000" />
+      <workItem from="1609975753653" duration="5962000" />
     </task>
     <task id="LOCAL-00001" summary="215">
       <created>1608602792357</created>
@@ -192,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608681835345</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Binary Search">
+      <created>1609989539119</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1609989539119</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -203,13 +178,14 @@
     <MESSAGE value="760" />
     <MESSAGE value="34" />
     <MESSAGE value="remove negative" />
-    <option name="LAST_COMMIT_MESSAGE" value="remove negative" />
+    <MESSAGE value="Binary Search" />
+    <option name="LAST_COMMIT_MESSAGE" value="Binary Search" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="209" y="27" key="CommitChangelistDialog2" timestamp="1608681835189">
+    <state x="209" y="27" key="CommitChangelistDialog2" timestamp="1609989538770">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="209" y="27" key="CommitChangelistDialog2/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1608681835189" />
+    <state x="209" y="27" key="CommitChangelistDialog2/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1609989538770" />
     <state width="1158" height="95" key="GridCell.Tab.0.bottom" timestamp="1609982488589">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -234,10 +210,10 @@
     <state width="988" height="201" key="GridCell.Tab.0.right/0.23.1440.877/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1608692919896" />
     <state width="1158" height="95" key="GridCell.Tab.0.right/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1609982488588" />
     <state width="988" height="201" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1608733604497" />
-    <state x="225" y="164" key="Vcs.Push.Dialog.v2" timestamp="1608681843760">
+    <state x="225" y="164" key="Vcs.Push.Dialog.v2" timestamp="1609989543861">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="225" y="164" key="Vcs.Push.Dialog.v2/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1608681843760" />
+    <state x="225" y="164" key="Vcs.Push.Dialog.v2/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1609989543861" />
     <state x="417" y="275" key="com.intellij.ide.util.TipDialog" timestamp="1609975894208">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
