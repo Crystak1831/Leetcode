@@ -16,7 +16,7 @@ Output: 4
 var singleNumber = function(nums) {
    const arr = nums.sort();
    for(let i = 0; i < nums.length; i ++){
-
+      return nums.reduce((a, b) => a ^ b, 0);
    }
    console.log(arr);
 
